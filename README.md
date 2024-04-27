@@ -1,10 +1,10 @@
-# BTP LLM GitHub Pull Analyzer
+# GitHub Pull Request Analyzer (with SAP AI Core)
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
 -->
 
-The BTP LLM GitHub Pull Analyzer automates the task of analyzing pull request in GitHub, summarizing the themes, sentiments, points of resonation/repulsion, and difficulties in the collected interactions. The results are outputted as a JSON report which is easy to parse and process.
+The GitHub Pull Request Analyzer (with SAP AI Core) automates the task of analyzing pull request in GitHub, summarizing the themes, sentiments, points of resonation/repulsion, and difficulties in the collected interactions. The results are outputted as a JSON report which is easy to parse and process.
 
 ## Files in the Source Code
 
@@ -30,7 +30,7 @@ To setup a local environment and run the program from scratch, perform the follo
 - **Poetry** - Modern package manager for Python
 - **GitHub** - Authorized access to GitHub API
   - See [GitHub REST API documentation](https://docs.github.com/en/rest)
-- **BTP LLM** - Authorized access to OpenAI Completions API via BTP LLM proxy
+- **SAP AI Core** - Authorized access to OpenAI Completions API via SAP AI Core
   - See [Generative AI Hub in SAP AI Core](https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/models-and-scenarios-in-generative-ai-hub) for setup instructions
 
 ### Configuration
