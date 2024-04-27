@@ -1,8 +1,6 @@
 # GitHub Pull Request Analyzer (with SAP AI Core)
 
-<!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/github-pull-analyzer)](https://api.reuse.software/info/github.com/SAP-samples/github-pull-analyzer)
 
 The GitHub Pull Request Analyzer (with SAP AI Core) automates the task of analyzing pull request in GitHub, summarizing the themes, sentiments, points of resonation/repulsion, and difficulties in the collected interactions. The results are outputted as a JSON report which is easy to parse and process.
 
